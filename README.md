@@ -32,7 +32,7 @@ Inspiration strikes in unexpected moments. This section contains insightful note
 
 ## Resume Upload
 
-Looking for a more detailed overview of my professional background? Find my resume here: [Resume.pdf]([link-to-resume](https://github.com/anuppin/Resume_Anup_Uppin/blob/main/Anup%20Uppin.pdf))
+Looking for a more detailed overview of my professional background? Find my resume here:(https://github.com/anuppin/Resume_Anup_Uppin/blob/main/Anup%20Uppin.pdf))
 
 ## Installation and Usage
 
