@@ -41,3 +41,7 @@ Looking for a more detailed overview of my professional background? Find my resu
 ```bash
 git clone https://github.com/yourusername/data-science-analytics-projects.git
 cd data-science-analytics-projects
+
+
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
